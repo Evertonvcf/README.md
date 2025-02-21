@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 - **Linguagens de Programação:** JavaScript, Python, Java
 - **Frameworks e Bibliotecas:** Node.js, Django
-- **Ferramentas e Tecnologias:** Git, Mysql
+- **Ferramentas e Tecnologias:** Html, Css, Git, Mysql
 
 ## 🌱 Atualmente Estou Aprendendo
 
